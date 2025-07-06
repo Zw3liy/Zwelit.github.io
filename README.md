@@ -1,4 +1,5 @@
 # Data scientist 
+### Technical Skills Python,Java,SQL,Networking & Infrastructure, Cybersecurity, Cloud & Virtualization
 
 ### Education
 - Systems developer
