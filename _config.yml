@@ -1,4 +1,8 @@
 title: Zwelithini Tshabalala
-logo : Zwelit.github.io/1653983317687.jpeg
-Show_downloads: true
-theme: jekyll-theme-minimal
+description: IT systems, network engineering, cybersecurity and software delivery.
+url: https://zw3liy.github.io
+baseurl: /Zwelit.github.io
+author: Zwelithini Tshabalala
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
